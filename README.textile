@@ -1,0 +1,24 @@
+h1. Grooscript sample canvas animation
+
+h2. Demo
+
+"Demo":http://another.maple4ever.net/wp-content/uploads/etc/grooscript/
+
+h2. Screenshot
+
+!https://github.com/h1romas4/grooscript-sample-canvas-animation/blob/master/screenshot.png!
+
+h2. Development
+
+# @git clone https://github.com/h1romas4/grooscript-sample-canvas-animation.git@
+# @cd grooscript-sample-canvas-animation@
+# Open browser @src/main/webapp/index.html@
+# @./gradlew --daemon convertThread@ or @.\gradlew.bat --daemon convertThread@
+
+h2. Link
+
+"Grooscript":http://grooscript.org/
+
+??library to convert groovy code to javascript??
+
+
